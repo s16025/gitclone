@@ -1,2 +1,2 @@
 This is my first write from master
-This is a file from kashima
+This is a file from master 
